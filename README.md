@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @danni
+<span style="color:red">## 👋 Salut, je suis @danni</span>
 
 - 👀 Intéressée par la création de solutions technologiques ayant un impact positif, avec une expertise en Python, React, Java, et bien plus.
 - 🌱 J’apprends actuellement le script shell avancé et j’améliore mes compétences en frontend, notamment avec des animations 3D.
