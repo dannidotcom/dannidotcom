@@ -17,7 +17,6 @@
   - **OS** : Windows, Linux (Debian / Toutes distributions)
 - 💞️ Je suis ouverte à la collaboration sur des projets fullstack innovants, en particulier ceux qui visent à améliorer la société par la technologie.
 - 📫 Me contacter : [Email](mailto:alphonse.danni@gmail.com)
-- 😄 Pronom : Elle
 - ⚡ Fun fact : Je suis une grande adepte de la philosophie Kaizen pour l'amélioration continue et j'explore comment l'intégrer au développement logiciel !
 
 
