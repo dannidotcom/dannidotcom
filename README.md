@@ -1,18 +1,6 @@
 # 👋 Bonjour, je suis Danni Alphonse !
 
-**Développeur Full-Stack** passionné par la création de solutions innovantes et efficaces. Je suis spécialisé dans :
-- 💻 Développement web : HTML, CSS, JavaScript, PHP
-- 🛠️ Développement backend : Python, Django, Odoo, NestJS 
-- 📱 Développement mobile : React Native
-
----
-
-## 🌟 À propos de moi
-- 🔭 Je travaille actuellement sur **[TeamTasker](https://github.com/dannidotcom/TeamTasker)**.
-- 🌱 J'apprends actuellement **Python**.
-- 🎯 Mon objectif : Devenir expert en **Python**.
-- 📫 Contactez-moi : [alphonse.danni@gmail.com](mailto:alphonse.danni@gmail.com)
-
+**Développeur Full-Stack** passionné par la création de solutions innovantes et efficaces.
 ---
 
 ## 🛠️ Compétences techniques
