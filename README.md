@@ -51,16 +51,14 @@
 <p align="center">
    <table>
       <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
+       <th>📊 Statistiques GitHub  </th>
+       <th>✨Top Langage</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=odoomates&show_icons=true&theme=radical"> </td>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=dannidotcom&show_icons=true&theme=radical"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannidotcom&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
    </table>
 </p>
-## 📊 Statistiques GitHub
-![dannidotcom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannidotcom&show_icons=true&theme=radical)
 
 ---
 
@@ -68,12 +66,6 @@
 [![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=dannidotcom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-## 🌐 Connectez-vous avec moi
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alphonse-solofondraibe-b424b91a3)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=flat&logo=portfolio&logoColor=white)](https://dannidotcom.github.io/portfolio/#about)
-
 
 
 <!---
