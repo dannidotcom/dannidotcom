@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Danni Alphonse !
 
-**Développeur Full-Stack** passionné par la création de solutions innovantes et efficaces.
+**Développeur Python | IA** passionné par la création de solutions innovantes et efficaces.
 ---
 
 ## 🛠️ Compétences techniques
